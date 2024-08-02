@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessClubAPI", "FitnessClubAPI\FitnessClubAPI.csproj", "{AB578D8D-8B77-44AF-B5F4-2AC492A2931C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessClubForms", "FitnessClubForms\FitnessClubForms.csproj", "{BDE8B97F-8BED-4CEE-858D-4C72A9AA3605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB578D8D-8B77-44AF-B5F4-2AC492A2931C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB578D8D-8B77-44AF-B5F4-2AC492A2931C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB578D8D-8B77-44AF-B5F4-2AC492A2931C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB578D8D-8B77-44AF-B5F4-2AC492A2931C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE8B97F-8BED-4CEE-858D-4C72A9AA3605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE8B97F-8BED-4CEE-858D-4C72A9AA3605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE8B97F-8BED-4CEE-858D-4C72A9AA3605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE8B97F-8BED-4CEE-858D-4C72A9AA3605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9CA4F3F-62A0-42FF-B8A5-CC618BCCE84B}
+	EndGlobalSection
+EndGlobal
